@@ -9,3 +9,4 @@ updates:
       time: "09:00"
     cooldown:
       default-days: 0
+    target-branch: pr/master/deps
