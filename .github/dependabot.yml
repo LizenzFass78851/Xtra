@@ -9,5 +9,5 @@ updates:
     time: "10:00"
   cooldown:
       default-days: 0
-  target-branch: pr/master/deps
+  target-branch: pr/fdroid/deps
         
